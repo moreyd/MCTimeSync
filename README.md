@@ -12,9 +12,9 @@ Upon loading, a menu will appear in chat to set the time in hours and minutes. C
 
 If you'd like to get this menu again, run the command `/function timesync:set_time`.
 
-If you decide at any point that you'd like to remove the datapack, simply run the command `/function timesync:uninstall`.
-
 If for whatever reason your server runs at a different tick rate than the default 20 TPS, you can change the number of ticks it takes to advance 3 minutes in-game in line 4 in `data/timesync/functions/load.mcfunction`. A future update may make this process easier.
+
+If you decide at any point that you'd like to remove the datapack, simply run the command `/function timesync:uninstall`. You can then delete the .zip file from the datapacks folder.
 
 ## Limitations
 As this is only a datapack, automatic syncing of time to the system clock is not possible. The time is also susceptible to desync when the world is paused or closed.

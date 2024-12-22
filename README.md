@@ -8,7 +8,7 @@ Download the latest version from the [Releases](https://github.com/moreyd/MCTime
 In Minecraft, run the command `/datapacks enable "file/MCTimeSync.zip"`.
 
 ## Usage
-Upon loading, a menu will appear in chat to set the time in hours and minutes. Click on the green or yellow text will set the time to the specified hour or minute.
+Upon loading, a menu will appear in chat to set the time in hours and minutes. Clicking on the green or yellow text will set the time to the specified hour or minute.
 
 If you'd like to get this menu again, run the command `/function timesync:set_time`.
 
